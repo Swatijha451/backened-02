@@ -1,0 +1,19 @@
+.chatbox{
+margin:auto;
+margin: 3%;
+background-color: rgba(49, 129, 49, 0.24);
+border: 1px solid black;
+border-radius: 1%;
+padding: 1%;
+
+}
+.heading{
+    text-align: center;
+    color: green;
+}
+.msg{
+    color: green;
+    /* margin: 2%; */
+    padding: 1%; 
+     border: 1px solid black; 
+}
